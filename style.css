@@ -1,0 +1,46 @@
+body{
+    padding:0;
+    margin: 0;
+}
+.head1{
+    height: 48rem;
+    width: 100%;
+    background-image: url("images/1STVFMTBJY.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container-fluid{
+    margin: 0em;
+    padding: 0em;
+}
+.containerHC{
+    width: 77rem;
+    margin: 0 auto;
+    background-color: red;
+}
+.car img{
+    height: 13rem;
+}
+.lean{
+    background-image: url("images/1STVFMTBJY.jpg");
+}
+#end{
+    position: absolute;
+    right: 0;
+}
+.headchild2{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    padding: 2rem;
+    background-color:rgba(36, 37, 42, .5);
+    width: 100%;
+
+}
+.text{
+    color:greenyellow !important;
+} 
+
+
+
